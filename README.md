@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm M Shivakumar, a Student passionate about coding, problem-solving, and continuous learning. I love working with [Languages/Technologies, e.g., Python, Web Development, etc.], and I’m always eager to dive into new projects and explore innovative tech solutions.<br><br>💻 Technologies: Experienced with [C  , Java , Data structure].<br>🌱 Learning Journey: Currently exploring new technologies.<br>👯 Looking to Collaborate: Open to collaborating on open source development .<br>📫 How to Reach Me: Feel free to connect with me on [LinkedIn, email, Twitter, etc.].<br><br>In my free time, I enjoy [drawing , reading books etc.]
 
 
 ## 🌐 Socials:
