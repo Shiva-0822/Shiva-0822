@@ -1,5 +1,6 @@
+Hi, I'm Shivakumar – a second-year Computer Science Engineering student with a strong interest in coding and development. I’m currently learning and building with C, Python, Java, and web technologies.
 
-
+Always curious to explore new tools, solve real-world problems, and grow as a developer. Open to collaboration and learning from the open-source community.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-shivakumar-498b07350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakumarmulimani08@gmail.com) 
 
