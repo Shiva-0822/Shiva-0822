@@ -1,5 +1,5 @@
 # 💫 About Me:
-i will tell after
+i will tell later
 
 
 ## 🌐 Socials:
