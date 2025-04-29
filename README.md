@@ -21,6 +21,8 @@ i will tell later
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shivakumar-0822?ext=contest)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Shiva-0822&icon=5&color=0)](https://visitcount.itsvg.in)
 
