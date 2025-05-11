@@ -34,7 +34,7 @@
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiva-0822&theme=transparent" height="180em" alt="Stats"/>
@@ -54,11 +54,7 @@
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.vercel.app">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/">
+  <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
