@@ -1,33 +1,75 @@
-# 💫 About Me:
-i will tell later
+<h1 align="center">Shivakumar</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
+</p>
+<h2 align="center">👨🏻‍💻 About me:</h2>
+<p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
+</p>
+<p align="center">Currently learning -> Machine Learning</p>
+<p align="center">Currently working on -> Private Projects</p>
+<br>
+<h2 align="center">💻 My tech stack:</h2>
+<table align="center">
+<tr>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="65" height="65" alt="SCSS"/><br><b>SCSS (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React JS (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node JS (Runtime)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
+</tr>
+</table>
+<br>
+<h2 align="center">📕 Featured repositories:</h2>
+<div align="center">
+<a href="https://github.com/samarjitsahoo/auction-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=auction-platform&theme=transparent" alt="C"></a>
+<a href="https://github.com/samarjitsahoo/house-price-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=house-price-prediction&theme=transparent" alt="C++"></a>
+<a href="https://github.com/samarjitsahoo/youtube-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=youtube-clone&theme=transparent" alt="Java"></a>
+<a href="https://github.com/samarjitsahoo/chatgpt-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=chatgpt-clone&theme=transparent" alt="Python"></a>
+<a href="https://github.com/samarjitsahoo/crypto-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=crypto-tracker&theme=transparent" alt="JavaScript"></a>
+<a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
+</div>
+<br>
+<h2 align="center">📊 My Github stats:</h2>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+</div>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" alt='Profile'/>
+</div>
+<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
+</p>
+<h2 align="center">🔗 Connect with me:</h2>
+<p align="center">
+  <a href="mailto:samarjit9203@gmail.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://samarjit.vercel.app">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/samarjitsahoo/">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
+  </a>
+</p>
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-shivakumar-498b07350/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29602485/m-shivakumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivakumar47997) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Eagle_Shiva-08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakumarmulimani08@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-<img align="right" height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-
-
-![](https://github-readme-stats.vercel.app/api?username=Shiva-0822&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shiva-0822&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shivakumar-0822?ext=contest)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shiva-0822&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/dashboard) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
