@@ -13,6 +13,16 @@
 <p align="center">Currently learning -> Web Development</p>
 <p align="center">Currently working on -> Private Projects</p>
 <br>
+<h2 align="center">🔗 Connect with me:</h2>
+<p align="center">
+  <a href="mailto:shivakumarmulimani08@gmail.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
+  </a>
+</p>
 <h2 align="center">💻 My tech stack:</h2>
 <table align="center">
 <tr>
@@ -43,20 +53,12 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiva-0822&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiva-0822&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiva-0822&theme=transparent" alt='Profile'/>
+     <img src="https://leetcard.jacoblin.cool/Shivakumar-0822?ext=contest" alt="Quote"/>
 </div>
 <br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
-<h2 align="center">🔗 Connect with me:</h2>
-<p align="center">
-  <a href="mailto:shivakumarmulimani08@gmail.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
-  </a>
-</p>
+
 <p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
 
