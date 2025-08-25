@@ -2,7 +2,7 @@
 
 <p align="center"> 
    <!-- Replace typing SVG with your JPG banner -->
-   <img src="assets/linkedin.png" width="450" height="35" alt="Student Banner"/>
+   <img src="linkedin.png" width="450" height="35" alt="Student Banner"/>
 </p>
 
 <p align="center">
