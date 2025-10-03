@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiva-0822/Shiva-0822/main/assets/banner.png" alt="Shivakumar Banner" />
+  <img src="https://raw.githubusercontent.com/Shiva-0822/Shiva-0822/main/assets/link.jpeg" alt="Shivakumar Banner" />
 </p>
 
 
