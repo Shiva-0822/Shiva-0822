@@ -10,8 +10,7 @@
 
 ---
  ✨ About Me  
-- 🔭 Currently working on **Next.js AI-Powered Tour Guide Website (Kotturu)**  
-- 🌱 Learning **Web Development, Python & Unity**  
+- 🔭 Currently learning **Web Development Frameworks, Python**   
 - 🎓 3rd-year **CSE Student @ Rajeev Institute of Technology** (8.6 CGPA)  
 - 🎨 Love building **dark-themed UIs** 🌑  
 - ⚡ Fun fact: *Coffee + Code = Happiness* ☕💻  
