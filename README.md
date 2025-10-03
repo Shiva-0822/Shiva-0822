@@ -9,15 +9,12 @@
 
 
 ---
-
-## ✨ About Me  
+ ✨ About Me  
 - 🔭 Currently working on **Next.js AI-Powered Tour Guide Website (Kotturu)**  
 - 🌱 Learning **Web Development, Python & Unity**  
 - 🎓 3rd-year **CSE Student @ Rajeev Institute of Technology** (8.6 CGPA)  
 - 🎨 Love building **dark-themed UIs** 🌑  
 - ⚡ Fun fact: *Coffee + Code = Happiness* ☕💻  
-
----
 
 ## 🛠️ Languages & Tools  
 
@@ -37,6 +34,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
+<!-- GitHub Trophies - Colorful -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+
 
 ---
 
@@ -57,7 +60,6 @@
   </a>
 </p>
 
----
 
 <!-- Footer Banner -->
 <p align="center">
