@@ -1,33 +1,63 @@
-# 💫 About Me:
-i will tell later
+<!-- Custom Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shiva-0822/Shiva-0822/main/assets/banner.png" alt="Shivakumar Banner" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-shivakumar-498b07350/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29602485/m-shivakumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivakumar47997) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Eagle_Shiva-08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakumarmulimani08@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-<img align="right" height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-
-
-![](https://github-readme-stats.vercel.app/api?username=Shiva-0822&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shiva-0822&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Shivakumar-0822?ext=contest)
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivakumar+👋;Aspiring+Developer+🚀;Dark+Theme+Lover+🌑;BCA+Student+%40+RIT+📚" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shiva-0822&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/dashboard) 
+## ✨ About Me  
+- 🔭 Currently working on **Next.js AI-Powered Tour Guide Website (Kotturu)**  
+- 🌱 Learning **Web Development, Python & Unity**  
+- 🎓 3rd-year **CSE Student @ Rajeev Institute of Technology** (8.5 CGPA)  
+- 🎨 Love building **dark-themed UIs** 🌑  
+- ⚡ Fun fact: *Coffee + Code = Happiness* ☕💻  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,python,java,c,git,github,unity,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-0822&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-0822&theme=tokyonight&hide_border=true" alt="GitHub streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:2D2D2D&height=150&section=footer&animation=fadeIn" />
+</p>
